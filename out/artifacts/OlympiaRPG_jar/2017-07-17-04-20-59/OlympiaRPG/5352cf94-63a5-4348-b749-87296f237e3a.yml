@@ -1,0 +1,27 @@
+level: 1
+xp: 78
+class: ASTERITE
+abilities:
+- Aster Blaster
+- Wormhole
+- Stellar Burst
+cooldowns:
+  Wormhole: 2017.07.16@07:25:54
+  Black Dart: 2017.07.16@04:27:00
+  Encase: 2017.07.16@01:27:14
+  Iron Hail: 2017.07.16@04:06:07
+  Spring Razor: 2017.07.16@04:29:45
+  Cripple Shot: 2017.07.16@04:05:52
+  Aster Blaster: 2017.07.16@07:20:31
+  Chill Blast: 2017.07.16@03:33:39
+  Stellar Burst: 2017.07.16@07:16:37
+  Fey Drift: 2017.07.16@04:34:40
+  Dash: 2017.07.16@04:26:36
+  Frag Grenade: 2017.07.16@04:29:38
+  Fireball: 2017.07.16@04:22:39
+  Propulsion: 2017.07.15@05:54:58
+  Rejuvinating Downpour: 2017.07.16@04:34:55
+  Sporepatch: 2017.07.16@04:35:58
+  Burning Trail: 2017.07.16@04:19:13
+  Grappling Hook: 2017.07.16@04:08:47
+  Jet Boost: 2017.07.16@04:30:35

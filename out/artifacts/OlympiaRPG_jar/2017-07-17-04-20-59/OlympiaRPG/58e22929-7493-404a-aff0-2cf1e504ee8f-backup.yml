@@ -1,0 +1,20 @@
+level: 1
+xp: 0
+class: SHADE
+abilities:
+- Black Dart
+- Dash
+- Shadowstalk
+cooldowns:
+  Shadowstalk: 2017.07.15@19:06:49
+  Black Dart: 2017.07.15@19:06:02
+  Dash: 2017.07.15@19:06:10
+  Iron Hail: 2017.07.15@03:42:56
+  Fireball: 2017.07.15@03:49:29
+  Ignition: 2017.07.15@03:49:34
+  Rejuvinating Downpour: 2017.07.15@18:53:56
+  Cripple Shot: 2017.07.15@01:21:48
+  Sporepatch: 2017.07.15@18:55:30
+  Burning Trail: 2017.07.15@03:49:35
+  Grappling Hook: 2017.07.15@01:21:56
+  Fey Drift: 2017.07.15@18:53:56

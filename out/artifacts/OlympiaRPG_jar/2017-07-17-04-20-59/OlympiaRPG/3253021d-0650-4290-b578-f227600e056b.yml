@@ -1,0 +1,11 @@
+level: 2
+xp: 1809
+class: VANGUARD
+abilities:
+- Sunderstrike
+- Charge
+- Battle Standard
+cooldowns:
+  Battle Standard: 2017.07.17@03:02:17
+  Charge: 2017.07.17@03:05:59
+  Sunderstrike: 2017.07.17@03:02:32

@@ -1,0 +1,41 @@
+name: OlympiaRPG
+main: com.olympiarpg.orpg.main.OlympiaRPG
+version: 0.1
+commands:
+    oadmin:
+      usage: /oadmin
+      description: What do you think? Duh.
+    reset:
+      usage: /resetMe
+      description: Remove all your abilities.
+    party:
+      usage: /party <subcommand>
+      description: Let's part-eee!
+    class:
+      usage: /class <CLASS>
+      description: Choose a class.
+    skills:
+      usage: /skills
+      description: Get skills.
+    setnation:
+      usage: /setnation <nation capital name>
+      dscription: Set your nation.
+    revert:
+      usage: /revert
+      description: Revert to a previous character. Only for donors ;)
+    glow:
+      usage: /glow
+      description: Toggle donor glow.
+    trail:
+      usage: /trail
+      description: Toggle donor trail.
+    mount:
+      usage: /mount
+      description: Summon a horse.
+    ostats:
+      usage: /ostats
+      description: Some useful statistics.
+    daily:
+      usage: /daily
+      description: Claim your daily rewards!
+softdepend: [Towny, WorldGuard]

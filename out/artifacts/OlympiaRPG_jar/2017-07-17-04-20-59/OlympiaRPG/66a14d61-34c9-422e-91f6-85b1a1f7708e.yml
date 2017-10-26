@@ -1,0 +1,11 @@
+level: 3
+xp: 2149
+class: ENGINEER
+abilities:
+- Frag Grenade
+- Jet Boost
+- Spring Razor
+cooldowns:
+  Frag Grenade: 2017.07.16@23:54:09
+  Spring Razor: 2017.07.16@23:54:28
+  Jet Boost: 2017.07.16@23:21:30

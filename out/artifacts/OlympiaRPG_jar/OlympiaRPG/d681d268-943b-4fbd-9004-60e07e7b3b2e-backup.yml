@@ -1,0 +1,14 @@
+level: 1
+xp: 80
+class: ASTERITE
+abilities:
+- Aster Blaster
+- Wormhole
+- Stellar Burst
+cooldowns:
+  Wormhole: 2017.07.09@19:10:57
+  Shadowstalk: 2017.07.09@19:03:49
+  Black Dart: 2017.07.09@19:04:31
+  Dash: 2017.07.09@19:07:29
+  Aster Blaster: 2017.07.09@19:10:17
+  Stellar Burst: 2017.07.09@19:10:11

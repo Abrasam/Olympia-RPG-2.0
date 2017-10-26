@@ -1,0 +1,11 @@
+level: 4
+xp: 2689
+class: WARDEN
+abilities:
+- Chill Blast
+- Propulsion
+- Encase
+cooldowns:
+  Encase: 2017.07.15@01:02:06
+  Propulsion: 2017.07.15@01:14:05
+  Chill Blast: 2017.07.15@01:14:03

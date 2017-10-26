@@ -1,0 +1,19 @@
+level: 1
+xp: 0
+class: ASTERITE
+abilities:
+- Aster Blaster
+- Wormhole
+- Stellar Burst
+cooldowns:
+  Wormhole: 2017.07.12@21:28:11
+  Shadowstalk: 2017.07.12@17:29:16
+  Black Dart: 2017.07.12@21:24:54
+  Dash: 2017.07.12@17:02:31
+  Rejuvinating Downpour: 2017.07.12@21:26:50
+  Propulsion: 2017.07.12@21:27:42
+  Sporepatch: 2017.07.12@21:27:32
+  Aster Blaster: 2017.07.12@21:28:00
+  Chill Blast: 2017.07.12@21:27:27
+  Fey Drift: 2017.07.12@21:26:37
+  Stellar Burst: 2017.07.12@21:28:29

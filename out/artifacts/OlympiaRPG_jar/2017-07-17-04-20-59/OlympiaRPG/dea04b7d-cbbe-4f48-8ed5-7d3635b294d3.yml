@@ -1,0 +1,11 @@
+level: 2
+xp: 1523
+class: ASTERITE
+abilities:
+- Aster Blaster
+- Wormhole
+- Stellar Burst
+cooldowns:
+  Wormhole: 2017.07.10@20:03:30
+  Aster Blaster: 2017.07.10@20:09:42
+  Stellar Burst: 2017.07.10@20:10:07

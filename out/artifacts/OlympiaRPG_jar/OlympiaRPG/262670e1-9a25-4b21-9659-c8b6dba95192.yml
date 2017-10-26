@@ -1,0 +1,8 @@
+level: 1
+xp: 3
+class: SHADE
+abilities:
+- Black Dart
+- Dash
+- Shadowstalk
+cooldowns: {}

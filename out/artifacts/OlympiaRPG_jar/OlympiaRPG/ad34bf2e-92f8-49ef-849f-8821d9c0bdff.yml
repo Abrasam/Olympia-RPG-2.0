@@ -1,0 +1,13 @@
+level: 5
+xp: 6510
+class: ASTERITE
+abilities:
+- Aster Blaster
+- Wormhole
+- Stellar Burst
+- Purple Rain
+cooldowns:
+  Wormhole: 2017.07.12@22:41:57
+  Purple Rain: 2017.07.12@22:54:22
+  Aster Blaster: 2017.07.12@22:42:38
+  Stellar Burst: 2017.07.12@22:17:47

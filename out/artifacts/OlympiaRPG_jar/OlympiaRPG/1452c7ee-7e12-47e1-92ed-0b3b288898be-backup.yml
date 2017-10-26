@@ -1,0 +1,10 @@
+level: 1
+xp: 0
+class: MYSTIC
+abilities:
+- Sporepatch
+- Fey Drift
+- Rejuvinating Downpour
+cooldowns:
+  Rejuvinating Downpour: 2017.07.12@01:44:04
+  Fey Drift: 2017.07.12@01:43:05

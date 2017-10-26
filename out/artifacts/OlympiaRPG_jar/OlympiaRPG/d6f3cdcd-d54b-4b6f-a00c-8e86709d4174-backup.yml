@@ -1,0 +1,11 @@
+level: 2
+xp: 1844
+class: WARLOCK
+abilities:
+- Ignition
+- Burning Trail
+- Fireball
+cooldowns:
+  Fireball: 2017.07.12@01:21:10
+  Ignition: 2017.07.12@01:21:15
+  Burning Trail: 2017.07.11@00:43:52

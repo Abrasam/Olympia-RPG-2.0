@@ -1,0 +1,8 @@
+level: 1
+xp: 150
+class: HUNTSMAN
+abilities:
+- Cripple Shot
+- Grappling Hook
+- Iron Hail
+cooldowns: {}

@@ -1,0 +1,12 @@
+level: 5
+xp: 5741
+class: WARLOCK
+abilities:
+- Ignition
+- Burning Trail
+- Fireball
+- Nethercore
+cooldowns:
+  Fireball: 2017.07.19@14:57:47
+  Ignition: 2017.07.19@14:57:58
+  Burning Trail: 2017.07.19@15:05:32

@@ -1,0 +1,17 @@
+level: 10
+xp: 44872
+class: OCCULTIST
+abilities:
+- Death's Grip
+- Toxic Cloud
+- Plague
+- Rotflesh
+- Cursed Ground
+cooldowns:
+  Plague: 2017.07.16@01:25:00
+  Death's Grip: 2017.07.16@00:52:47
+  Encase: 2017.07.10@16:30:14
+  Toxic Cloud: 2017.07.16@03:22:44
+  Cursed Ground: 2017.07.16@01:25:12
+  Propulsion: 2017.07.10@16:36:05
+  Chill Blast: 2017.07.10@16:30:07

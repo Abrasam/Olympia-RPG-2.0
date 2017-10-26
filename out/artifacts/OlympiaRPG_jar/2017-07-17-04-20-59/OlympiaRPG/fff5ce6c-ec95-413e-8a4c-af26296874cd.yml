@@ -1,0 +1,15 @@
+level: 10
+xp: 133033
+class: HUNTSMAN
+abilities:
+- Cripple Shot
+- Grappling Hook
+- Iron Hail
+- Bear Trap
+- Ender Arrow
+cooldowns:
+  Bear Trap: 2017.07.16@00:02:43
+  Iron Hail: 2017.07.16@20:17:16
+  Cripple Shot: 2017.07.16@20:32:40
+  Grappling Hook: 2017.07.16@23:25:15
+  Ender Arrow: 2017.07.16@19:39:34

@@ -1,0 +1,8 @@
+level: 1
+xp: 0
+class: WARLOCK
+abilities:
+- Ignition
+- Burning Trail
+- Fireball
+cooldowns: {}

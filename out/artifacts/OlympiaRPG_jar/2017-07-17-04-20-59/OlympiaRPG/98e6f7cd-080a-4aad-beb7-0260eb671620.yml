@@ -1,0 +1,8 @@
+level: 1
+xp: 83
+class: VANGUARD
+abilities:
+- Sunderstrike
+- Charge
+- Battle Standard
+cooldowns: {}

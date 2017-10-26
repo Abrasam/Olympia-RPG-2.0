@@ -1,0 +1,20 @@
+level: 3
+xp: 5991
+class: ENGINEER
+abilities:
+- Frag Grenade
+- Jet Boost
+- Spring Razor
+cooldowns:
+  Shadowstalk: 2017.07.09@23:59:07
+  Black Dart: 2017.07.09@23:28:53
+  Dash: 2017.07.09@23:59:01
+  Frag Grenade: 2017.07.10@06:26:38
+  Fireball: 2017.07.10@01:13:38
+  Battle Standard: 2017.07.10@02:24:49
+  Spring Razor: 2017.07.10@06:26:54
+  Ignition: 2017.07.10@01:13:48
+  Charge: 2017.07.10@02:24:26
+  Burning Trail: 2017.07.10@01:13:54
+  Sunderstrike: 2017.07.10@02:28:02
+  Jet Boost: 2017.07.10@06:33:08

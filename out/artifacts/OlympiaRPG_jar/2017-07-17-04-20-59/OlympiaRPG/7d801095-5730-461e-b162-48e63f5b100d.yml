@@ -1,0 +1,12 @@
+level: 9
+xp: 5970
+class: VANGUARD
+abilities:
+- Sunderstrike
+- Charge
+- Battle Standard
+- Blood Thirst
+cooldowns:
+  Battle Standard: 2017.07.17@04:07:56
+  Charge: 2017.07.17@04:11:09
+  Sunderstrike: 2017.07.17@04:07:56

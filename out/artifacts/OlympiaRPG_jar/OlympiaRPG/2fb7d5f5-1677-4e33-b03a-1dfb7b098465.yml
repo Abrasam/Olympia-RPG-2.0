@@ -1,0 +1,15 @@
+level: 1
+xp: 239
+class: OCCULTIST
+abilities:
+- Death's Grip
+- Toxic Cloud
+- Plague
+cooldowns:
+  Plague: 2017.07.20@07:55:56
+  Bear Trap: 2017.07.18@22:44:39
+  Death's Grip: 2017.07.20@07:57:30
+  Iron Hail: 2017.07.18@22:41:04
+  Toxic Cloud: 2017.07.20@07:59:27
+  Cripple Shot: 2017.07.18@22:38:18
+  Grappling Hook: 2017.07.18@22:40:16
